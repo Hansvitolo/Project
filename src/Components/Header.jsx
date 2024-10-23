@@ -5,7 +5,7 @@ import './index.css';
 function Header() {
   return (
     <header className='header'>
-        <h1>Gold Pizzas</h1>
+        <h1>Divine and Doyin Pizzas</h1>
     </header>
   );
 }
